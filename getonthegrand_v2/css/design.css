@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #435772;
+}
+
+header h1 {
+  font-family: 'Rubik', sans-serif;
+  color: #d7eaec;
+}
+
+h1 {
+  font-family: 'Rubik', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  line-height: 2.4em;
+}
+
+li {
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.6em;
+  color: #d7eaec;
+}
+
+.hero-btn, .btn {
+  font-family: 'Rubik', sans-serif;
+  font-size: 1em;
+}
+
+input, textarea, button {
+  font-family: 'Roboto', sans-serif;
+}
